@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "Easy Link Traders",
+  title: "EasyLink Traders",
   description: "Office Supplies and Equipments",
 };
 
