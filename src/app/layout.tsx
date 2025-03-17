@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Easy Link Traders",
-  description: "All in One Office Supplies",
+  description: "Office Supplies and Equipments",
 };
 
 export default function RootLayout({
